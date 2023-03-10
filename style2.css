@@ -1,0 +1,438 @@
+
+
+
+
+body {
+ font-family:'Roboto', sans-serif;
+ margin: 0;
+ display: flex;
+}
+
+
+ .centralpanel { 
+background: #ffffff;
+box-sizing: border-box;
+width: 1535px;
+height: 1795px;
+
+ }
+
+
+ div hr  {
+position: absolute;
+border: none;
+background-color:#F3F3F3; 
+color: #F3F3F3;;
+height: 2px;
+width: 775px;
+
+}
+ 
+
+
+
+.firstl {
+
+    position:absolute;
+    top: 100px;
+    left: 55px;
+    width: 788px;
+    height: 2px;
+    background:rgba(133, 118, 237, 0.15);
+    border: none;
+}
+
+div img {
+position: relative;
+margin-left:  15px; 
+margin-bottom: 15px;
+left: 757px;
+bottom: 840px;
+}
+
+
+ p {
+    position: absolute;
+ top: 40px;
+ left: 56px; ;
+color: #243D6F;
+}
+
+
+.red {
+position: absolute;
+border-color: rgba(133, 118, 237, 0.15);
+top: 172px;
+left: 130px;
+border-left: 4px solid rgb(155, 95, 238);
+background:rgba(133, 118, 237, 0.15);
+width: 690px;
+padding: 10px;
+line-height: 49px;
+font-size: 16px;
+text-indent: 36px;
+}
+
+.secondl
+{
+    position:absolute;
+    top:180px;
+    left: 130px;
+    width: 714px;
+    height: 2px;
+    background:rgba(133, 118, 237, 0.15);
+    border: none;
+ }
+
+
+
+.thirdl {
+position:absolute;
+top:247px;
+left: 130px;
+width: 714px;
+height: 2px;
+background:rgba(133, 118, 237, 0.15);
+border: none;
+ }
+
+
+ .fourthl {
+position:absolute;
+width: 714px;
+height: 2px;
+left: 134px;
+top: 424px;
+background: rgba(243, 243, 243, 1);
+border: none;
+}
+
+
+.blue{
+
+    position: absolute;
+    top: 294px;
+    left:130px;
+    border-left: 4px solid rgba(61, 131, 249, 1);
+    background: rgba(61, 131, 249, 0.15);
+    width: 587px;
+    
+    padding: 63px;
+    line-height: 45px;
+    font-size: 16px;
+}
+
+
+ .fifel{
+    position:absolute;
+    top: 364px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background: rgba(243, 243, 243, 1);
+    border: none;
+}
+
+
+.sixl
+{
+    position:absolute;
+    top: 302px;
+    left: 134px;
+    width: 713px;
+    height: 2px;
+    background: rgba(243, 243, 243, 1);
+    border: none;
+}
+
+.orange{
+    position: absolute;
+    top:534px;
+    left:130px;
+    border-left: 4px solid rgba(238, 165, 124, 1);
+    background: rgba(238, 165, 124, 0.15);
+    width: 626px;
+    padding: 43px;
+    line-height: 45px;
+    font-size: 16px;
+}
+
+
+
+.sevenl
+{
+    position:absolute;
+    top: 484px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background: rgba(243, 243, 243, 1);
+    border: none;
+}
+
+.eightl
+{
+    position:absolute;
+    top: 542px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background: rgba(238, 165, 124, 0.15);
+    border: none;
+}
+
+.ninel {
+    position:absolute;
+    top: 604px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+   background:  rgba(243, 243, 243, 1);
+    border: none;
+  }
+
+
+.tenl{
+
+    position:absolute;
+    top: 672px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+ background: rgba(238, 165, 124, 0.15);
+    border: none;
+  }
+
+.elevenl {
+
+    position:absolute;
+    top: 724px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background:  rgba(243, 243, 243, 1);
+    border: none;
+  }
+
+.twelvel
+{
+    position:absolute;
+    top: 784px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background:  rgba(243, 243, 243, 1);
+    border: none; 
+}
+
+.thirtyl {
+
+    position:absolute;
+    top: 844px;
+    left: 133px;
+    width:713px;
+    height: 2px;
+    background:  rgba(243, 243, 243, 1);
+    border: none; 
+}
+ 
+.timeline {
+margin: auto;
+text-align: left;
+padding-top:138px  ;
+
+}
+
+
+
+li{
+line-height: 60px;
+color: #A4B0C3;
+font-size: 14px;
+list-style-type:none;
+}
+ 
+
+.bg
+{
+position: absolute;
+border: 1px solid rgb(88, 86, 89);
+box-sizing: border-box;
+margin: 0;
+padding: 10px;
+width: 515px;
+height:899px ;
+left: 900px;
+top: 15px;
+background: rgba(42, 46, 65, 0.7);
+ }
+
+
+.bg p
+{
+position: relative;
+color: #ffffff;
+margin: auto;
+top: 19px;
+width: 11em;
+font-size: 21px;
+}
+
+
+
+i{
+border: solid rgb(250, 247, 247);
+border-width: 0 3px 3px 0;
+display: inline-block;
+padding: 7px;
+}
+
+
+
+
+ .arrowleft
+{
+transform: rotate(135deg);
+-webkit-transform: rotate(135deg);
+margin-left: 53px;
+}
+
+
+.arrowright{
+
+    transform: rotate(-45deg);
+    -webkit-transform: rotate(-45deg);
+margin-left: 339px;
+}
+
+
+
+.bg hr {
+ width: 80%;
+ margin: 5% 39px 0 39px;
+ background: #000000;
+mix-blend-mode: normal;
+opacity: 0.17;
+border-bottom: 2px solid #ddd;
+}
+
+
+#calendar2 {
+    width: 100%;
+  margin: 17px 5px 0 10px;
+   line-height: 61px;
+   font-family:'Roboto', sans-serif;
+    font-size: 17px;
+    text-align: center;
+  }
+  .line2{
+    left: 10px;
+    top:58px ; 
+    width: 80px;
+  }
+  
+  #calendar2 thead tr:last-child {
+    font-size: small;
+    color: #FFFFFF;
+   mix-blend-mode: normal;
+   opacity: 0.6;
+  }
+  #calendar2 thead tr:nth-child(1) td:nth-child(2) {
+    color: rgb(255, 255, 255);
+  }
+  #calendar2 thead tr:nth-child(1) td:nth-child(1):hover, #calendar2 thead tr:nth-child(1) td:nth-child(3):hover {
+    cursor: pointer;
+    color: #F3F3F3;
+      }
+  #calendar2 tbody td {
+    color: rgb(255, 255, 255);
+    
+  }
+  #calendar2 tbody td:nth-child(n+6), #calendar2 .holiday {
+    color: rgb(172, 151, 140);
+  }
+  #calendar2 tbody td.today {
+    background: #3C82F9;
+    color: #fff;
+    border-radius: 70%;
+    height: 4em;
+    width: 4em;
+  }
+.calendar-container
+{
+    box-sizing: border-box;
+    margin: 0px 10px 30px 50px;
+    color: #FFFFFF;
+   line-height: 63px;
+}
+
+.num
+{
+    color: #FFFFFF;
+    mix-blend-mode: normal;
+    opacity: 0.5;
+}
+
+
+
+.oval
+{
+background: #3c82f9;
+border-radius: 50%;
+height: 3em;
+width: 3em;
+}
+
+
+.line{
+left: 10px;
+top:500px ; 
+width: 80px;
+}
+
+
+.categories p
+{
+margin-left: -11px;
+margin-top: 7px;
+font-size: 17px;
+}
+
+.content1 p
+{
+
+    
+        padding: 16px;
+        margin: 21px 0 0 -14px;
+        background: #8576ED;
+        border-radius: 12px;
+        text-align: center;
+        font-size: 15px;
+        
+}
+
+.content2 p{
+
+    padding: 16px;
+    margin: -49px 0 0 203px;
+    background: #F39946;
+    border-radius: 12px;
+    text-align: center;
+    font-size: 15px;
+    
+
+
+
+}
+
+.content3 p {
+
+    padding: 16px;
+    margin: 21px 0 0 -14px;
+    background: rgba(255, 70, 126, 1);
+    border-radius: 12px;
+    text-align: center;
+    font-size: 15px;
+
+} 
+
