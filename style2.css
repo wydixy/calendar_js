@@ -311,7 +311,6 @@ border-bottom: 2px solid #ddd;
   }
  
   
- /* Стили для основного контейнера */
 #calendar {
   display: grid;
   block-size: 20px;
@@ -321,7 +320,6 @@ border-bottom: 2px solid #ddd;
   font-size: 16px;
 }
 
-/* Стили для заголовка */
 .title {
   font-weight: bold;
   padding: 10px;
@@ -331,7 +329,7 @@ font-size: 18px;
 
 }
 
-/* Стили для кнопок переключения месяца */
+
 #button-container {
   display: flex;
   justify-content: space-between;
@@ -341,7 +339,6 @@ font-size: 18px;
 
 
 
-/* Стили для таблицы дней месяца */
 table {
   width: 100%;
 }
@@ -360,7 +357,6 @@ opacity: 0.6;
   font-weight: normal;
 }
 
-/* Стили для ячеек прошлого месяца */
 .prev-month {
   color: #c9c0c0;
 }
